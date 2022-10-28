@@ -1,0 +1,144 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+.dropdown:hover .dropdown-menu{
+	display: block;
+}
+#simge{
+	font-size: 35px;
+}
+#p1{
+	color: #000;
+	font-weight: bold;
+	font-size: 40px;
+}
+#p2{
+	color: green;
+	font-weight: bold;
+	font-size: 40px;
+}
+.lorem{
+	position: relative;
+	font-size: 10px;
+}
+.post h2.title{
+	font-size: 18px;
+	font-weight: bold;
+}
+.posts-tittle{
+	margin: 10px 0 10px 0;
+}
+.image-post{
+	position: relative;
+	overflow: hidden; 
+}
+.post-category{
+	color: #FFF;
+	text-decoration: none;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#yer{
+	color:#7F7F7E;
+	font-size: 20px;
+	text-decoration: none;
+}
+.desc{
+	color: grey;
+	font-size: 15px;
+}
+.color-2{
+	background-color: #5CBE6D;
+}
+.color-3{
+	background-color: #EEEEEE;
+}
+.image-post .meta-category-small{
+	position: absolute;
+}
+.image-post .meta-category-small2{
+	position: absolute;
+	left:179px;
+}
+img.author-img{
+	background-color: red;
+	border-radius:50%;
+	border: 2px solid gree;
+	margin-right: 10px;
+	margin-top: 15px;
+	width: 50px;
+	height: 50px;
+}
+nav a{
+	color: #9D9D9D;
+	text-decoration: none;
+	text-align: right;
+}
+#content{
+	color: #8E95A8;
+}
+#hr{
+	width: 80%;
+}
+#villa1{
+	margin-bottom: 20px;
+}
+#resim1{
+	background-color: yellow;
+}
+#ikon{
+	border-radius: 50%; 
+	border:2px solid green; 
+	background-color:#FFF; 
+	font-size: 50px;
+	color: #5CBE6D;
+	margin-top: 15px;
+	margin-left: 5px;
+}
+#who{
+	background-color: #FFFFFF;
+}
+#footer{
+	background-color: black;
+}
+.post-title{
+	font-size: 20px;
+	font-weight: bold;
+}
+#findHome{
+	background-color: #5CBE6D;
+}
+#yazi{
+	color: #FFF;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+#yazi-content{
+	color: #FFF;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+}
+#dropdownMenuButton{
+	padding-top: ;
+	width:100%;
+    background-color: gray;
+    text-align: right;
+}
+#dropdownMenuButton2{
+	width: 200%;
+}
+#testsag{
+	padding-top: 35px;
+}
+#son{
+	color: #red;
+}
+#whowe{
+	width: 100%;
+	height: auto;
+}
+#widget{
+	padding-left: 42px;
+}

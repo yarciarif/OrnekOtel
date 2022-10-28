@@ -1,0 +1,10 @@
+
+c:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe /codebase  Netsis.Framework.SsoService.InstallCom.dll
+c:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe /codebase  Netsis.Framework.SsoService.SsoCom.dll 
+
+
+\\192.168.27.6\Netsis\ENTERPRISE9\TemelSet
+regsvr32 \\SQLSERVER\Netsis\STANDARD9\TemelSet\NetOpenX50.dll
+regsvr32 \\netsissrv\Netsis\ENTERPRISE9\TemelSet\Netopenx50.dll
+
+
